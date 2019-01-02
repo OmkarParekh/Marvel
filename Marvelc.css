@@ -1,0 +1,117 @@
+#i1{
+    background-image: url("http://d3qljroq8e8j0n.cloudfront.net/wp-content/uploads/2017/06/15.jpg");
+    background-repeat:no-repeat;
+    background-size: 90em;
+}
+#i2{
+    background-image: url("https://cnet2.cbsistatic.com/img/ZVJKdjD7OnLkaq07pz50JdmYCWo=/1600x900/2018/04/18/7d739d34-6ca7-484a-a9e2-73f4ff44878d/capture1.png");
+    background-repeat:no-repeat;
+    background-size: 90em;
+}
+#i3{
+    background-image: url("https://cdn.wegotthiscovered.com/wp-content/uploads/2018/07/avengers-4-iron-man-1.jpg");
+    background-repeat:no-repeat;
+    background-size: 90em;
+    
+}
+#i4{
+    background-image: url("https://stmed.net/sites/default/files/captain-america-wallpapers-27534-7547867.jpg");
+    background-repeat:no-repeat;
+    background-size: 90em;
+}
+#i5{
+    background-image: url("https://www.hdwallpaper.nu/wp-content/uploads/2017/07/thor-16.jpg");
+    background-repeat:no-repeat;
+    background-size: 90em;   
+}
+
+.m1{
+    background-color: red;
+    text-align: center;
+    color: white;
+    
+    border-radius: 30px;
+    
+}
+.m2{
+    background-color: red;
+    text-align: center;
+    color: white;
+    border-radius: 30px;
+}
+h3{
+    padding: 1em 0em -1em 0em;
+}
+.m6{
+    background-color: ;
+    text-align: center;
+    width: 50%;
+    margin:auto;
+
+}
+.m7{
+    background-color:black;
+    text-align: center;
+    color: white;
+    border-radius: 30px;
+}
+a{
+text-decoration:none;
+}
+a:link{
+    color:white
+}
+a:visited{
+    color:white;
+}
+.m9{
+  
+    text-align: center;
+    width: 50%;
+    margin:auto; 
+}
+.m10{
+    background-color:black;
+    text-align: center;
+    width: 50%;
+    margin:auto; 
+}
+.m11{
+    background-color:black;
+    text-align: center;
+    width: 50%;
+    margin:auto; 
+}
+.m13{
+    background-color:black;
+    text-align: center; 
+    color: rgb(247, 201, 201);
+    border-radius: 30px;
+}
+.m14{
+    background-color:black;
+    text-align: center;
+    color:gold ;
+    border-radius: 30px; 
+}
+.m15{
+    background-color:black;
+    text-align: center;
+    color: #c0c0c0;  
+    border-radius: 30px; 
+}
+.m50{
+    text-align: center;
+    color: white;
+    
+    border-radius: 30px;
+
+}
+.m49{
+    background-color: black;
+    text-align: center;
+    color: white;
+    
+    border-radius: 30px;
+    
+}
